@@ -1,0 +1,44 @@
+{
+  "folders": [
+    {
+			"path": "jamstack-workshop-backend"
+		},
+		{
+			"path": "jamstack-workshop-frontend"
+		},
+    {
+      "path": "jamstack-workshop-assets"
+    }
+  ],
+  "settings": {
+    "vetur.grammar.customBlocks": {
+      "docs": "md",
+      "i18n": "json",
+      "page-query": "graphql",
+      "static-query": "graphql"
+    },
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.validation.script": false,
+    "javascript.validate.enable": false,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "[vue]": {
+      "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "prisma.vscode-graphql",
+      "esbenp.prettier-vscode",
+      "octref.vetur",
+      "editorconfig.editorconfig",
+      "firefox-devtools.vscode-firefox-debug"
+    ]
+  }
+}
