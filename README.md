@@ -16,5 +16,5 @@
 5. _Only for VSCode users._ Open copied `jamstack.code-workspace` with VSCode
 6. _Only for VSCode users._ Install recommended extensions:\
    ![image](./misc/screenshot.png)
-7. Install dependencies in backend & frontend by running: `yarn`
+7. Install dependencies in jamstack-workshop-frontend & jamstack-workshop-backend by running: `yarn`
 8. You are ready 👏
