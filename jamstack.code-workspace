@@ -1,11 +1,10 @@
 {
-  "folders": [
+  "folders": [{
+      "path": "jamstack-workshop-backend"
+    },
     {
-			"path": "jamstack-workshop-backend"
-		},
-		{
-			"path": "jamstack-workshop-frontend"
-		},
+      "path": "jamstack-workshop-frontend"
+    },
     {
       "path": "jamstack-workshop-assets"
     }
@@ -40,5 +39,21 @@
       "editorconfig.editorconfig",
       "firefox-devtools.vscode-firefox-debug"
     ]
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [{
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "program": "${workspaceRoot}/node_modules/gridsome/bin/gridsome.js",
+      "runtimeArgs": [
+        "--inspect-brk=9229",
+      ],
+      "args": [
+        "develop"
+      ],
+      "port": 9229
+    }]
   }
 }
