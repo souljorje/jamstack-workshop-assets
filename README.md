@@ -23,9 +23,9 @@ Hope you have [github](https://github.com/) account and [git bash](https://git-s
 3. Clone this repo and forked jamstack-workshop-frontend & jamstack-workshop-backend repos to to created folder.
 
    ```sh
-   git clone https://github.com/souljorje/jamstack-workshop-assets.git
-   git clone https://github.com/souljorje/jamstack-workshop-frontend.git
-   git clone https://github.com/souljorje/jamstack-workshop-backend.git
+   git clone https://github.com/{yournickname}/jamstack-workshop-assets.git
+   git clone https://github.com/{yournickname}/jamstack-workshop-frontend.git
+   git clone https://github.com/{yournickname}/jamstack-workshop-backend.git
    ```
 
 4. _Only for VSCode users._ Copy `jamstack-workshop.code-workspace` to created folder.\
