@@ -37,7 +37,7 @@
       "esbenp.prettier-vscode",
       "octref.vetur",
       "editorconfig.editorconfig",
-      "firefox-devtools.vscode-firefox-debug"
+      "ms-vsliveshare.vsliveshare"
     ]
   },
   "launch": {
