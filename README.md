@@ -8,6 +8,8 @@
 
 1. Node.js: [download](https://nodejs.org/en/download)
 
+Hope you have [github](https://github.com/) account and [git bash](https://git-scm.com/downloads) installed 🤔
+
 ## Configure workspace
 
 1. Fork [jamstack-workshop-frontend](https://github.com/souljorje/jamstack-workshop-frontend) & [jamstack-workshop-backend](https://github.com/souljorje/jamstack-workshop-backend)
@@ -35,3 +37,11 @@
 7. Install dependencies in jamstack-workshop-frontend & jamstack-workshop-backend (see commands in README there)
 8. Deal with database (see README in jamstack-workshop-backend)
 9. You are ready 👏
+
+## List of APIs
+
+1. Chuck Norris jokes: [http://www.icndb.com/api](http://www.icndb.com/api)
+   Usage: [https://api.icndb.com/jokes/random/50](https://api.icndb.com/jokes/random/50)
+
+2. Just dummy data: [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
+   Usage: [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)

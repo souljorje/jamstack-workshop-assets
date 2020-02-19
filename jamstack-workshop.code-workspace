@@ -36,6 +36,8 @@
       "prisma.vscode-graphql",
       "esbenp.prettier-vscode",
       "octref.vetur",
+      "sdras.vue-vscode-snippets",
+      "vuetifyjs.vuetify-vscode",
       "editorconfig.editorconfig",
       "ms-vsliveshare.vsliveshare"
     ]
